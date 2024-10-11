@@ -1,8 +1,10 @@
-main {
-    padding: 150px;
+.principal {
+    padding: 0;
+    margin: 62px;
+    margin-top: 17px;
     display: flex;
-    
-    background-color: black;
+    justify-content: center;
+    background-color: ;
 }
 
 body {
@@ -10,7 +12,23 @@ body {
     margin: 0px;
 }
 
+header {
+    background-color: ;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+}
+
 .logo {
-    width: 50px;
-    
+    width: 48px;
+    max-height: 25px;
+}
+
+.buscar {
+    position: relative;
+    left: 20px;
+    top: -10px;
+    width: 30%;
+    padding: ;
+
 }
